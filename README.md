@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠 Технологии и инструменты
+## Технологии и инструменты
 
 Python | Django | DRF | Django ORM | PostgreSQL | SQLite | Docker | Git | Linux | Nginx (базовый уровень) | JWT | REST API | MVC/MVT | ООП | HTTP
 
@@ -37,11 +37,10 @@ Python | Django | DRF | Django ORM | PostgreSQL | SQLite | Docker | Git | Linux 
 
 ---
 
-## 📫 Контакты
+## Контакты
 
-- 📧 Email: **bypasternak@yandex.ru**
-- 💬 Telegram: **@bypasternakk**
+- Email: **bypasternak@yandex.ru**
+- Telegram: **@bypasternakk**
 
 ---
 
-⭐ GitHub использую как портфолио и площадку для роста в backend-разработке
