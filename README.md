@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Привет! Меня зовут Дмитрий
+# Привет! Меня зовут Дмитрий
 
 
 Я backend-разработчик **веб-сервисов и REST API**
