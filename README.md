@@ -1,16 +1,72 @@
-## Hi there 👋
+# Привет 👋 Меня зовут Дмитрий Пастернак
 
-<!--
-**bypasternak/bypasternak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я backend-разработчик, сфокусированный на разработке **веб-сервисов и REST API**.  
+Изучаю промышленный backend на Python в рамках обучения в **Яндекс Практикуме**.  
 
-Here are some ideas to get you started:
+📍 Россия  
+Открыт к предложениям, стажировкам и pet-проектам
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Технологический стек
+
+**Языки и основы**
+- Python
+- SQL
+- HTTP / REST
+- ООП
+
+**Backend**
+- Django
+- Django REST Framework
+- Django ORM
+- JWT / Token authentication
+
+**Базы данных**
+- PostgreSQL
+- SQLite
+
+**Инфраструктура и инструменты**
+- Docker, Docker Compose
+- Git
+- Linux
+- Nginx (базовое понимание)
+
+**Подходы и практики**
+- REST API
+- MVC / MVT
+- Работа с документацией
+- Чистый и читаемый код
+
+---
+
+## Обо мне
+
+- Backend-разработчик уверенного junior уровня  
+- Основной фокус — **веб-сервисы, API и серверная логика**
+- Понимаю полный цикл разработки backend-приложений
+- Умею работать с БД, авторизацией, сериализацией данных
+- Привык писать код с расчётом на поддержку и расширение
+- Постоянно развиваюсь и углубляю знания backend-экосистемы
+
+---
+
+## Проекты
+
+> Здесь будут размещены мои pet-проекты и учебные веб-сервисы  
+> (API, backend-сервисы, микросервисы, интеграции)
+
+ **Проект 1 — в разработке**  
+Описание проекта  
+**Стек:** Django, DRF, PostgreSQL, Docker  
+
+---
+
+## 📫 Контакты
+
+- 📧 Email: **bypasternak@yandex.ru**
+- 💬 Telegram: **@bypasternakk**
+
+---
+
+⭐ GitHub использую как портфолио и площадку для роста в backend-разработке
