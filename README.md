@@ -1,42 +1,17 @@
-# Привет! Меня зовут Дмитрий Пастернак
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Привет! Меня зовут Дмитрий
 
-Я backend-разработчик, сфокусированный на разработке **веб-сервисов и REST API**.  
-Изучаю промышленный backend на Python в рамках обучения в **Яндекс Практикуме**.  
+
+Я backend-разработчик **веб-сервисов и REST API**
+Изучаю промышленный backend на Python. 
 
 📍 Россия  
 Открыт к предложениям, стажировкам и pet-проектам
 
 ---
 
-## Технологический стек
+## 🛠 Технологии и инструменты
 
-**Языки и основы**
-- Python
-- SQL
-- HTTP / REST
-- ООП
-
-**Backend**
-- Django
-- Django REST Framework
-- Django ORM
-- JWT / Token authentication
-
-**Базы данных**
-- PostgreSQL
-- SQLite
-
-**Инфраструктура и инструменты**
-- Docker, Docker Compose
-- Git
-- Linux
-- Nginx (начальный уровень)
-
-**Подходы и практики**
-- REST API
-- MVC / MVT
-- Работа с документацией
-- Чистый и читаемый код
+Python | Django | DRF | Django ORM | PostgreSQL | SQLite | Docker | Git | Linux | Nginx (базовый уровень) | JWT | REST API | MVC/MVT | ООП | HTTP
 
 ---
 
