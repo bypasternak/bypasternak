@@ -5,13 +5,13 @@
 Изучаю промышленный backend на Python. 
 
 📍 Россия  
-Открыт к предложениям, стажировкам и pet-проектам
+С радостью рассмотрю предложения по работе, стажировкам и pet-проектам
 
 ---
 
 ## Технологии и инструменты
 
-Python, Django, DRF, Django ORM, PostgreSQL, SQLite, Docker, Git, Linux, Nginx (базовый уровень), JWT, REST API, MVC/MVT, ООП, HTTP
+Python, Django(DRF, ORM), PostgreSQL, SQLite, Docker, Git, Linux, Nginx (базовый уровень), JWT, REST API, MVC/MVT, ООП, HTTP
 
 ---
 
