@@ -11,7 +11,7 @@
 
 ## Технологии и инструменты
 
-Python | Django | DRF | Django ORM | PostgreSQL | SQLite | Docker | Git | Linux | Nginx (базовый уровень) | JWT | REST API | MVC/MVT | ООП | HTTP
+Python, Django, DRF, Django ORM, PostgreSQL, SQLite, Docker, Git, Linux, Nginx (базовый уровень), JWT, REST API, MVC/MVT, ООП, HTTP
 
 ---
 
