@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Технологии и инструменты
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
@@ -18,19 +18,6 @@
 ![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest)
 ![Flutter](https://img.shields.io/badge/Learning-Flutter-02569B?style=for-the-badge&logo=flutter)
-
-### Mobile QA
-
-- Python (pytest)
-- Appium
-- Allure
-- GitLab CI
-
-### Изучаю
-
-- Dart
-- Flutter
-- Mobile Application Architecture
 
 ---
 
