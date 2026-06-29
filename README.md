@@ -1,7 +1,6 @@
-```markdown
 # 👋 Привет! Меня зовут Дмитрий
 
-Python Developer & Mobile QA Automation Engineer
+**Python Developer | Mobile QA Automation Engineer**
 
 Работаю в сфере мобильной разработки, занимаюсь автоматизацией тестирования мобильных приложений. Параллельно развиваюсь как Python-разработчик и изучаю Flutter/Dart.
 
@@ -26,11 +25,10 @@ Python Developer & Mobile QA Automation Engineer
 
 ### Mobile QA
 
-- Python(pytest)
+- Python (pytest)
 - Appium
 - Allure
-- Gitlab CI
-
+- GitLab CI
 
 ### Изучаю
 
@@ -54,8 +52,6 @@ Python Developer & Mobile QA Automation Engineer
 
 Здесь размещаю свои pet-проекты, учебные приложения и эксперименты.
 
-
-
 ---
 
 ## 📫 Контакты
@@ -63,5 +59,3 @@ Python Developer & Mobile QA Automation Engineer
 **Email:** bypasternak@yandex.ru
 
 **Telegram:** @bypasternakk
-```
-
